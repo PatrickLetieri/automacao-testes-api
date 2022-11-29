@@ -1,0 +1,18 @@
+{
+  "validProductReview": {
+    "product_id": 22,
+    "review": "Achei mais ou menos",
+    "rating": 3
+  },
+  
+  "editProductReview":{
+    "product_id": 22,
+    "review": "Na verdade, o produto é perfeito",
+    "rating": 5
+  },
+
+  "deleteProductReview":{
+    "force": "true"
+  }
+
+}
