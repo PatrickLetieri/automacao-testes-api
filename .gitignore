@@ -5,3 +5,4 @@ package.json
 cypress\videos
 allure-results
 allure-report
+cypress\fixtures\token.json
